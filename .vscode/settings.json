@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "e:\\Python38_64\\Python3.8.5\\python.exe",
+    "python.pythonPath": "f:\\Python\\Python3.9\\python.exe",
     "python.formatting.provider": "yapf",
     "python.linting.pylintEnabled": false,
     "python.linting.enabled": true,
@@ -12,7 +12,13 @@
         "utility": "cpp",
         "xiosbase": "cpp",
         "xutility": "cpp",
-        "*.cs": "csharp"
+        "*.cs": "csharp",
+        "xstring": "cpp",
+        "cstddef": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "queue": "cpp",
+        "unordered_map": "cpp"
     },
     "editor.suggest.shareSuggestSelections": true,
     "editor.suggestSelection": "recentlyUsedByPrefix",

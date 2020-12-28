@@ -23,7 +23,7 @@ public class Solution {
                     if (dfs(x, y, u + 1))
                         return true;
             }
-        
+
             board[i][j] = word[u];
             return false;
         }

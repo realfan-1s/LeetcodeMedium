@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+// 字典+双链表
 public class LRUCache {
     Dictionary<int, Node> dict;
     int cap;
