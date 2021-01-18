@@ -18,7 +18,8 @@
         "vector": "cpp",
         "xhash": "cpp",
         "queue": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "deque": "cpp"
     },
     "editor.suggest.shareSuggestSelections": true,
     "editor.suggestSelection": "recentlyUsedByPrefix",
